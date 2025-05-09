@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lasyakandati
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 I’m currently learning data analysis
+- 💞️ I’m looking to collaborate on data analysis project
 - 📫 How to reach me lasyakandati@gmail.com
 
 <!---
